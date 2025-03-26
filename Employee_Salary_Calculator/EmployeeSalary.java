@@ -1,3 +1,8 @@
+/* Problem Statement:
+ •	Create an Employee class with attributes like name, ID, basic salary.
+•	Implement a method to calculate net salary (basic + bonus - tax).
+•	Create an object, take input from the user, and display salary details.*/
+
 import java.util.*;
 class Employee
 {
