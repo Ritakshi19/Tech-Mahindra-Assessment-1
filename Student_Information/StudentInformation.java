@@ -1,3 +1,8 @@
+/*Problem Statement:
+•	Create a Student class with attributes like name, roll number, and marks.
+•	Use a method to display the student details.
+•	Create an object of the class and call the method to print student information*/
+
 import java.util.*;
 class Student{
     private String name;
